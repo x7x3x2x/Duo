@@ -13,6 +13,10 @@ Windows:
 Linux:
  - Over 15 scripts
  - Options to navigate around the terminal
+
+Payload_Factory:
+ - 10 different payloads
+ - Support for both Windows and Linux
 ```
 # Installation
 ```
