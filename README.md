@@ -20,5 +20,19 @@ pip3 install requests
 pip3 install colorama
 python duo.py
 ```
+
+# Arguments/Options
+Duo has a several arguments/options for custom launching just incase something happens. These options can also assist in getting Duo to work if there are any issues. You can also launch the Payload Factory to start generating payloads!
+```
+╭─user@workspace in ~/Desktop/g/Duo 
+╰─λ python duo.py --help
+
+-h, --help       Displays commands.
+-d, --duo        Launches the Duo Framework. [The Appropriate framework will be launched after an OS check.]
+-l, --linux      Launches Duo Framework for Linux.
+-w, --windows    Launches Duo Framework for Windows.
+-p, --payload    Launches the Payload Factory.
+```
+
 # Credits
 https://github.com/0x1CA3
