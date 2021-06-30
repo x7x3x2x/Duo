@@ -13,7 +13,7 @@ except:
 
 # Duo
 # 6/21/21
-# Made by https://github.com/brows3r AKA 0x1CA3
+# Made by https://github.com/0x1CA3
 
 def loading_start():
     print("Loading the Duo Framework...  ", end='', flush=True)
