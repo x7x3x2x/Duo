@@ -1,8 +1,21 @@
-# Duo
-A post-exploitation framework for Windows and Linux.
+<h1 align="center">
+	<img src="https://icons.veryicon.com/png/o/emoticon/number/duo-1.png" width="150px"><br>
+    Duo - A post-exploitation framework for Windows and Linux.
+</h1>
+<p align="center">
+	Duo is a post-exploitation framework that supports both Windows and Linux. It comes with all the scripts and tools you need for post-exploitation.
+</p>
 
-# What is Duo? 
-Duo is a post-exploitation framework that supports both Windows and Linux. It comes with all the scripts and tools you need for post-exploitation, it even comes with a payload generator that allows you to pick from 10 different payloads that support both Windows and Linux.
+<p align="center">
+	<a href="https://deno.land" target="_blank">
+    	<img src="https://img.shields.io/badge/Version-1.0.0-7DCDE3?style=for-the-badge" alt="Version">
+     </a>
+	<a href="https://deno.land" target="_blank">
+    	<img src="https://img.shields.io/badge/Deno-1.0.0+-7DCDE3?style=for-the-badge" alt="Node">
+     </a>
+</p>
+
+## Features
 ```
 Windows:
  - Over 35 scripts
