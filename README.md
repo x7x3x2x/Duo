@@ -52,4 +52,8 @@ Duo has a several arguments/options for custom launching just incase something h
 ```
 
 # Credits
+```
 https://github.com/0x1CA3
+```
+### Contributions 🎉
+###### All contributions are accepted, simply open an Issue / Pull request.
