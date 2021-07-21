@@ -31,14 +31,14 @@ Payload_Factory:
  - 10 different payloads
  - Support for both Windows and Linux
 ```
-# Installation
+## Installation
 ```
 pip3 install requests
 pip3 install colorama
 python duo.py
 ```
 
-# Arguments/Options
+## Arguments/Options
 Duo has a several arguments/options for custom launching just incase something happens. These options can also assist in getting Duo to work if there are any issues. You can also launch the Payload Factory to start generating payloads!
 ```
 ╭─user@workspace in ~/Desktop/g/Duo 
@@ -51,7 +51,7 @@ Duo has a several arguments/options for custom launching just incase something h
 -p, --payload    Launches the Payload Factory.
 ```
 
-# Credits
+## Credits
 ```
 https://github.com/0x1CA3
 ```
