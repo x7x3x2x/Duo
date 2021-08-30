@@ -67,7 +67,7 @@ class help_and_other(object):
                             {Fore.RED}╔╦╗┬ {Fore.GREEN}┬┌─┐
                             {Fore.RED} ║║│ {Fore.GREEN}││ │
                             {Fore.RED}═╩╝└{Fore.RED}{Fore.GREEN}─┘└─┘
-               [Made by https://github.com/brows3r]
+               [Made by https://github.com/0x1CA3]
                      Use 'help' for commands!
     """
     def scripts_post_menu():
